@@ -16,6 +16,5 @@ int areaOfRectangle(int s1, int s2) {
 
     area = side1 * side2;
 
-    printf("Area: %d\n", area);
-    return 0;
+    return area;
 }
