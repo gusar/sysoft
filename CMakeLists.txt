@@ -10,5 +10,7 @@ set(SOURCE_FILES
         lab1/area_of_triangle.c
         lab1/area_of_triangle.h
         lab1/area_of_circle.c
-        lab1/area_of_circle.h)
+        lab1/area_of_circle.h
+        lab1/roman.c
+        lab1/roman.h)
 add_executable(sysoft ${SOURCE_FILES})
